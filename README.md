@@ -14,3 +14,7 @@ The Aurelia git repos will be cloned, commit scraped, contributors counted and g
 ## adding milestones
 
 Open captions.js and edit the milestones array. Timestamps are in unix format.
+
+## repo list
+
+https://gist.run/?id=ff92973fe9ec1565be3ffaf25405dd84
